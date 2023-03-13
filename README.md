@@ -1,1 +1,2 @@
-https://badge.mediaplus.ma/greenbinary/hlakhal-
+
+[![hlakhal-'s 42 stats](https://badge.mediaplus.ma/greenbinary/hlakhal-)](https://github.com/oakoudad/badge42)
